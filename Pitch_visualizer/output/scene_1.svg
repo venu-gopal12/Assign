@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1024" height="512">
+  <rect width="1024" height="512" fill="#2c3e50"/>
+  <text x="512" y="256" font-family="Georgia" font-size="24" fill="#888"
+        text-anchor="middle" dominant-baseline="middle">Scene 1</text>
+</svg>
