@@ -18,7 +18,7 @@ An emotionally aware Text-to-Speech (TTS) service that detects the underlying em
 
 ### 1. Clone the repository
 ```bash
-git clone <(https://github.com/venu-gopal12/Assign.git)>
+git clone <your-repo-url>
 cd empathy_engine
 ```
 

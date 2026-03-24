@@ -19,7 +19,7 @@ An AI-powered storyboard generator that transforms narrative text into a multi-p
 
 ### 1. Clone the repository
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/venu-gopal12/Assign.git
 cd pitch_visualizer
 ```
 
